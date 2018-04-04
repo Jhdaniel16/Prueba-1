@@ -49,10 +49,9 @@ public class EjercicioCondicionales {
         resta = y - x - n - m;
         multiplicacion = y * x * n *m;
         division = y / x / n / m;
-        System.out.println("El resultado de la suma es: "+suma);
-        System.out.println("El resultado de la resta es: "+resta);
-        System.out.println("El resultado de la multiplicacion es: "+multiplicacion);
-        System.out.println("El resultado de la division es: "+division);
+        
+        
+        
     }
     
 }
